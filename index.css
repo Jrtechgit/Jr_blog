@@ -1,0 +1,20 @@
+body{
+  background-color: black;
+}
+div{
+  color: white;
+  background-color: Black;
+}
+input{
+  color: white;
+  width: 100%;
+  padding: 5px 0px;
+  margin: 8px 0px;
+}
+input[type="text"]{
+  height: 70px;
+}
+ 
+.obrigado{
+  color: #FFFFFF
+}
